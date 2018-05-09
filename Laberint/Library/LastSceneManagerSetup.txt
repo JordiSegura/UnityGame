@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/alu2011187/Documents/GitHub/Laberint/Laberint/Assets/MainScene.unity
+  isLoaded: 1
+  isActive: 1
